@@ -639,7 +639,7 @@ RaspPI/Debian Wheezy obtaining fixed IP address from DHCP server
 Using a Transceiver with GPIO
 underclocking to prevent overheating in the summer
 External Hard-drive backing up using Time-Machine
-Using USB as a slave
+Using USB as a subordinate
 Powering Raspberry Pi and other USB devices through a single USB Hub
 Raspberry Pi not booting at all with most images, but with some it does
 i2c Group on Arch
@@ -838,7 +838,7 @@ How can I mass-provision a lot of RPi's at once?
 Raspberry Pi Video Output
 Why does my Pi become unreachable from other computers but is still connected to the internet?
 Electrical characteristics of GPIO
-I2C: Raspberri pi as a Slave
+I2C: Raspberri pi as a Subordinate
 How would I use right click on a single click mouse
 How to compile C files in terminal
 How to Remap the Raspbian “Wheezy” Keyboard
@@ -1805,7 +1805,7 @@ Reading barcode with Raspberry Camera and zbar
 How can I edit a Raspbian SD card image to use a static IP address within Windows?
 7 Segment display too dim with BCD to 7-segment latch/decoder/driver
 Connected to the Internet, but can't ssh or ping
-Use RPi as a LIN Master to control slave nodes
+Use RPi as a LIN Main to control subordinate nodes
 What web servers can I install on the Raspberry Pi?
 Connecting a micro pump to Raspberry Pi
 512MB suddenly not recognizing USB or ethernet
@@ -1953,7 +1953,7 @@ Camera blinks but doesn't record
 Deluge crashes at raspberry pi after while
 L.E.D controlled by IF STATEMENT from variable
 Accessing the command line on the Raspberry Pi outside
-Making Raspberry Pi Bluetooth slave
+Making Raspberry Pi Bluetooth subordinate
 How do I mount the correct drive everytime the Raspberry Pi reboots?
 Transistor or optoisolator when dealing with the GPIO pins and an external power source?
 Graphic output sensor data
@@ -3149,7 +3149,7 @@ Raspberry B+ remove USB ports
 Can I login using something other than a password; i.e. a keypad using GPIO pins?
 /dev/null folder doesn't exist. Should I create it?
 Measure the frequency of a 555 timer
-Add more than 2 SPI slaves
+Add more than 2 SPI subordinates
 Use a USB MIDI controller as an input
 Internet connection with SSH
 Functions and limitations of Windows 10 IOT for Pi 2
@@ -3496,7 +3496,7 @@ Forgot my password
 Why won't Linux Applications run when the file is executable?
 How many sensors I can connect to one breadboard ? (raspberry pi 2)
 how to create new user in Raspberry PI who has equal privileges as default user: pi?
-Can Raspberry PI function as SPI slave?
+Can Raspberry PI function as SPI subordinate?
 Max gpio input current
 Pi not booting, no ACT LED, not the polyfuse
 Is it possible to store data in Raspberry Pi?
@@ -4362,7 +4362,7 @@ startx through SSH gives 'not autorized error' although 'allowed_users=console' 
 Raspberry Pi Zero and USB camera Issue
 switching between multiple keyboard layouts
 Reading 'Weird' Serial Communication GPIO
-SPI: Raspberry PI master and Arduino slave
+SPI: Raspberry PI main and Arduino subordinate
 Default gateway gone after restart
 Forwarding audio signal through GPIO
 Preparing MicroSD card for Raspberry Pi 2
@@ -5132,7 +5132,7 @@ Check system name and kernel version in script
 Portable power supply for RPI3 and official touchscreen requirements
 Sharing folder with windows computer
 Sensor to activate remote lights on Wi-Fi
-How to remaster TinyCoreLinux for Raspberry Pi aka piCore Linux?
+How to remain TinyCoreLinux for Raspberry Pi aka piCore Linux?
 How to read the status of the Power-LED on Raspberry Pi 3 with Python
 Raspberry Pi = Chromecast + Chromecast Audio (2-in-1)?
 DIY USB 3 Way Splitter on Raspberry Pi Zero
@@ -5240,7 +5240,7 @@ Snappy Ubuntu Core Lose Ethernet Connection After Updating
 Permission Denied - Raspbian
 How can I install the KUMAN 3.5 inch-display?
 Connect DHT11 and Raspberry Pi without a breadboard
-My Raspberry Pi doesn't detect i2c BMP085 slave
+My Raspberry Pi doesn't detect i2c BMP085 subordinate
 Unable to boot Ubuntu Snappy on Pi 3
 Setting up raspberry pi camera to view on a Web page
 Interfaces besides sysfs for GPIO programing in C
